@@ -6,7 +6,6 @@ body {
     color: seashell;
     background-color: black;
     text-align: center;
-    opacity: 0.9;
     margin: 0;
 }
 
@@ -88,6 +87,7 @@ body {
     width: 300px;
     display: block;
     margin: 10px;
+    opacity: 0.9;
 }
 
 .products span {
